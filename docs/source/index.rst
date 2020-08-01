@@ -1,4 +1,4 @@
-.. include:: ../README.md
+.. include:: ../README.rst
 
 .. toctree::
    :maxdepth: 2
@@ -6,12 +6,3 @@
 
    introduction
    examples
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
